@@ -13933,3 +13933,983 @@ Processing by HomeController#show as HTML
 Completed 200 OK in 400ms (Views: 14.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 39.118.250.7 at 2018-04-11 19:35:19 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 228ms (Views: 221.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 39.118.250.7 at 2018-04-11 19:35:20 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:35:35 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 937ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:35:54 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 653ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:36:05 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 597ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:36:11 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 437ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:36:20 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 591ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:36:27 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 598ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:36:32 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 524ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:37:55 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1153ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:38:16 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 522ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:38:18 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 592ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:39:53 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 987ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:39:54 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 710ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:40:24 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 565ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:40:48 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 581ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:41:06 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 840ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 39.118.250.7 at 2018-04-11 19:41:24 +0000
+Cannot render console from 39.118.250.7! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 747ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 203.253.71.53 at 2018-04-12 10:41:27 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 286ms (Views: 278.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 203.253.71.53 at 2018-04-12 10:41:31 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 203.253.71.53 at 2018-04-12 10:41:40 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1298ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 203.253.71.53 at 2018-04-12 10:41:49 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 652ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 203.253.71.53 at 2018-04-12 10:41:50 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 768ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 203.253.71.53 at 2018-04-12 10:42:37 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 602ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 203.253.71.53 at 2018-04-12 10:42:39 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 692ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 203.253.71.53 at 2018-04-12 10:42:40 +0000
+Cannot render console from 203.253.71.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 699ms (Views: 20.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 125.130.46.69 at 2018-04-13 08:49:47 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 269ms (Views: 262.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 08:49:50 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1215ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:49:55 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 24.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:53:10 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:53:12 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:53:42 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:53:56 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:54:04 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:54:20 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 16ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:54:39 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 08:54:52 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/index/" for 125.130.46.69 at 2018-04-13 09:27:39 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 14ms (Views: 13.5ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:27:40 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1043ms (Views: 14.1ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:27:44 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 621ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:29:58 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1561ms (Views: 13.6ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:30:25 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 646ms (Views: 19.8ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:02 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2049ms (Views: 14.5ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:07 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 753ms (Views: 16.3ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:11 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 701ms (Views: 13.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:15 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 651ms (Views: 13.8ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:18 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 694ms (Views: 14.4ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:46 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 663ms (Views: 20.1ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:49 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 627ms (Views: 14.3ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:52 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 608ms (Views: 14.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:54 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 674ms (Views: 15.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:55 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 680ms (Views: 13.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:33:57 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 564ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:00 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 760ms (Views: 14.6ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:04 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 886ms (Views: 19.5ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:07 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 794ms (Views: 14.6ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:10 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 613ms (Views: 13.6ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:14 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 648ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:15 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 718ms (Views: 14.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:34:16 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 811ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:35:22 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1461ms (Views: 20.5ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:35:52 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 645ms (Views: 14.4ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:36:36 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 625ms (Views: 14.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:36:39 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 815ms (Views: 14.3ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:37:49 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1900ms (Views: 20.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:39:16 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 965ms (Views: 14.3ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:39:18 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 810ms (Views: 13.5ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:40:36 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 712ms (Views: 14.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:42:04 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 1421ms (Views: 19.9ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:42:19 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 853ms (Views: 14.9ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:45:24 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1081ms (Views: 15.2ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:45:27 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 624ms (Views: 14.4ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:46:11 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 670ms (Views: 20.1ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:46:53 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1169ms (Views: 14.7ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:47:30 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 805ms (Views: 14.9ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:47:40 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 786ms (Views: 15.0ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:48:05 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1057ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:48:15 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 701ms (Views: 15.1ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:48:30 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 660ms (Views: 14.9ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:49:48 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1577ms (Views: 15.1ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:49:52 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1744ms (Views: 14.5ms)
+
+
+Started GET "/home/show/" for 125.130.46.69 at 2018-04-13 09:50:27 +0000
+Cannot render console from 125.130.46.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 812ms (Views: 14.6ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:06:33 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 1648ms (Views: 426.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:06:55 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 792ms (Views: 14.1ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:10:23 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1313ms (Views: 14.3ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:10:36 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 681ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:10:48 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 937ms (Views: 13.9ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:10:57 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 637ms (Views: 23.1ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:11:09 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 740ms (Views: 14.6ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:11:19 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 984ms (Views: 13.7ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:11:53 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1226ms (Views: 15.4ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:12:51 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 837ms (Views: 13.6ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:13:23 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 927ms (Views: 15.4ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:13:40 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 652ms (Views: 14.8ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:14:05 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 798ms (Views: 20.2ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:14:13 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 877ms (Views: 14.2ms)
+
+
+Started GET "/home/index/" for 59.11.124.186 at 2018-04-13 16:15:00 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 13.1ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:02 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:03 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1237ms (Views: 14.1ms)
+
+
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 774ms (Views: 13.2ms)
+
+
+Started GET "/home/index/" for 59.11.124.186 at 2018-04-13 16:15:06 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 14ms (Views: 13.6ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:07 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 890ms (Views: 13.7ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:10 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 658ms (Views: 13.9ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:18 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 788ms (Views: 15.1ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:27 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 870ms (Views: 14.6ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:31 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 644ms (Views: 14.8ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:33 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 864ms (Views: 19.7ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:15:38 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 607ms (Views: 13.7ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:16:45 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 725ms (Views: 14.5ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:16:47 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 605ms (Views: 13.8ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:16:48 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 821ms (Views: 14.2ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:16:51 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 769ms (Views: 14.3ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:17:16 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 677ms (Views: 16.1ms)
+
+
+Started GET "/home/index/" for 59.11.124.186 at 2018-04-13 16:17:22 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 15ms (Views: 14.0ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:17:24 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 589ms (Views: 14.4ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:17:50 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1121ms (Views: 14.9ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:17:53 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 816ms (Views: 20.1ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:17:56 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 668ms (Views: 14.6ms)
+
+
+Started GET "/home/show/" for 59.11.124.186 at 2018-04-13 16:20:35 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 672ms (Views: 14.7ms)
+
+
+Started GET "/home/show" for 59.11.124.186 at 2018-04-13 16:20:37 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 664ms (Views: 14.5ms)
+
+
+Started GET "/home/show" for 59.11.124.186 at 2018-04-13 16:20:39 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 868ms (Views: 14.5ms)
+
+
+Started GET "/home/show" for 59.11.124.186 at 2018-04-13 16:20:44 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 778ms (Views: 13.9ms)
+
+
+Started GET "/home/show" for 59.11.124.186 at 2018-04-13 16:24:22 +0000
+Cannot render console from 59.11.124.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#show as HTML
+  Rendering home/show.html.erb within layouts/application
+  Rendered home/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1483ms (Views: 14.2ms)
+
+
